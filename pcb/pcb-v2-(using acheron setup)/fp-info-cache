@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 100367816683012
 Switch_Keyboard_Cherry_MX
 SW_Cherry_MX_PCB
@@ -420,6 +421,8 @@ Cherry MX Keyboard Keyswitch Switch Plate Cutout ISOEnter 270deg
 0
 4
 =======
+=======
+>>>>>>> 74072fa5d8b5083dce3dbcdb3dc12365b1835386
 26776479686517
 CherryMX_PCB_StabWireTop
 CherryMX_2.00u_PCB_StabWireTop
@@ -532,5 +535,8 @@ Cherry MX switch footprint. Size: 10.00u, Mount type: PCB, Using Kailh Socket: n
 CherryMX 10.00u PCB StabWireTop
 0
 2
+<<<<<<< HEAD
+>>>>>>> 74072fa5d8b5083dce3dbcdb3dc12365b1835386
+=======
 >>>>>>> 74072fa5d8b5083dce3dbcdb3dc12365b1835386
 2
